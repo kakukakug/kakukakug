@@ -1,6 +1,6 @@
 # Hi there 👋  I'm kakukakug.
 
-I'm a system engineer/software developer/UI designer/app creator. I'm from Japan. You can find me on Twitter, or on my blog.
+I'm a system engineer / software developer / UI designer / app creator. I'm from Japan. You can find me on Twitter, or on my website.
 
 <p>
 <a href="https://www.twitter.com/koshihonmushi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
