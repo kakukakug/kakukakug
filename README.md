@@ -64,6 +64,11 @@ I'm a system engineer / software developer / UI designer / app creator. I'm from
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
+## Qualifications
++ 基本情報技術者
++ 応用情報技術者
++ データベーススペシャリスト
+
 ## Works
 <!--
 **kakukakug/kakukakug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
